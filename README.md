@@ -24,14 +24,11 @@ npm i
 npm run dev
 ```
 
--   Run wit hot reload:
+-   Run with hot reload:
 
 ```
-// run script in a new terminal window and leave it open
+// run script
 npm run watch
-
-//run script
-npm run start
 ```
 
 ## Features
